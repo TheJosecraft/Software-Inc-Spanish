@@ -298,7 +298,7 @@
     PerHour " por hora"
     PerMonth " por mes"
     ITPayment "{0} por transporte
-{0} por reparación"
+    {0} por reparación"
 #Newspaper
     Reviewsection "Sección de análisis"
     Businesssection "Sección de negocios"
@@ -457,17 +457,17 @@
     BusFullWarning "Los autobuses están llenos, considera añadir un parking"
     Clickanddrag "Arrastra y suelta"
     RoomClosedOff "No hay ninguna forma de acceder a esta habitación
-Añade puertas o ascensores"
+    Añade puertas o ascensores"
     PublicToiletWarning "Los empleados no pueden usar los retretes en público
-Separa los retretes en otra habitación"
+    Separa los retretes en otra habitación"
     RoomOvercrowdWarning "Hay demasiados ordenadores en esta sala
-Las habitaciones sobrecargadas pueden distraer a los empleados"
+    Las habitaciones sobrecargadas pueden distraer a los empleados"
     RoomLighingWaning "No hay suficiente luz aquí
-Añade ventanas o lámparas"
+    Añade ventanas o lámparas"
     FurnitureBrokeWarning "Algo se ha roto y necesita un conserje"
     UnsupportedStructure "La estructura no se admite"
     RoomInRoom "No se puede construir dentro de otras habitaciones.
-Si desea dividir una habitación tienes que construir de pared a pared"
+    Si desea dividir una habitación tienes que construir de pared a pared"
     RoomOutOfPlot "Tienes que construir dentro de los límites de las parcelas"
     RoomTooSmall "Tus habitaciones tienen que ser de al menos 2x2"
     CannotReplaceDuplicateSegment "No se puede reemplazar {0} con {0}"
@@ -512,13 +512,13 @@ Si desea dividir una habitación tienes que construir de pared a pared"
     StockWatError "No se puede vender toda la empresa, eso te hará perder la partida."
     StockRepLow "Tu reputación es demasiado baja como para existencias de esta cantidad acciones"
     HRNoRooms "Ha habilitado la gestión de recursos humanos para un equipo que no tiene habitaciones.
-Por favor, designe algunas habitaciones para este equipo para que el líder del equipo pueda hacer su trabajo correctamente"
+    Por favor, designe algunas habitaciones para este equipo para que el líder del equipo pueda hacer su trabajo correctamente"
     DesignProductNameError "Ya existe un producto con este nombre"
     ProductOSError "Seleccione uno o más sistemas operativos"
     ProductNeedError "Seleccione un producto para cada necesidad"
     DesignProductNameHint "No ha elegido un nombre para su software, ¿estás seguro de que deseas continuar?"
     DesignProductTeamSizeHint "El tamaño del equipo elegido es bastante pequeño para un proyecto de este tamaño
-¿Estás seguro de que quieres continuar?"
+    ¿Estás seguro de que quieres continuar?"
     ProductLicenseError "No puedes afrontar los costes de la licencia"
     DistributionNameError "Este nombre ya ha sido escogido"
     DistributionServerError "Por favor, selecciona un servidor"
@@ -533,11 +533,11 @@ Por favor, designe algunas habitaciones para este equipo para que el líder del 
     LoseDialogMsg "Has fallado al completar este escenario."
     LoseDialogMsgTitle "¡ perdido!"
     BankruptInsurance "Tienes {0} en tu cuenta.
-Quieres retirar {1} de tus fondos de seguros para tratar de evitar la quiebra?"
+    Quieres retirar {1} de tus fondos de seguros para tratar de evitar la quiebra?"
     BankruptStock "Tienes {0} en tu cuenta.
-¿Quieres vender tus acciones {1} para tratar de evitar la quiebra?"
+    ¿Quieres vender tus acciones {1} para tratar de evitar la quiebra?"
     BankruptLoan "Tienes {0} en tu cuenta.
-Quieres pedir un préstamo de {1} para tratar de evitar la quiebra?"
+    Quieres pedir un préstamo de {1} para tratar de evitar la quiebra?"
     BankruptLoseMsg "Fuiste fue a la quiebra con {0} en tu cuenta."
 #FurnitureInfo
     Currentlyusedby "Actualmente utilizado por"
@@ -624,8 +624,8 @@ Quieres pedir un préstamo de {1} para tratar de evitar la quiebra?"
     NoBugs "Sin errores por arreglar"
     StillBugs "Arreglados {0} errores"
     ReleaseMarketingHint "¿Quieres iniciar el marketing de {0} ahora?
-El marketing es crucial para el éxito de sus productos.
-Puede iniciar una campaña de marketing después de publicar un producto en cualquier momento haciendo clic en el botón \"Tus publicaciones\""
+    El marketing es crucial para el éxito de sus productos.
+    Puede iniciar una campaña de marketing después de publicar un producto en cualquier momento haciendo clic en el botón \"Tus publicaciones\""
 #Clothing
     Skirt "Falda"
     T-shirt "Camiseta"
@@ -650,17 +650,17 @@ Puede iniciar una campaña de marketing después de publicar un producto en cual
     Putonmarket "Poner en el mercado"
     ProductDetailTitle "Detalles para {0}"
     ProductDetailLeftText "Nombre: {0}
-Compañía: {1}({2})
-Tipo: {4} {3}
-Código Abierto: {5}
-Interno: {6}
-Fecha de lanzamiento: {7}"
+    Compañía: {1}({2})
+    Tipo: {4} {3}
+    Código Abierto: {5}
+    Interno: {6}
+    Fecha de lanzamiento: {7}"
     ProductDetailRightText "Calidad: {0}
-Percepción: {1}
-Popularidad: {2}
-Coste de licencia: {3}
-Bruto: {4}
-Pérdidas: {5}"
+    Percepción: {1}
+    Popularidad: {2}
+    Coste de licencia: {3}
+    Bruto: {4}
+    Pérdidas: {5}"
 #FurnitureQuality
     Broken "Roto"
     Calcified "Calcificado"
@@ -704,7 +704,7 @@ Code "Código"
 Art "Arte"
 Baseskill "Habilidad base"
 Lead "Liderazgo"
-Leader "Liderar"
+Leader "Líder"
 Designer "Diseñador"
 Programmer "Programador"
 Artist "Artista"
@@ -818,7 +818,7 @@ NetProfit "Beneficio neto"
     LowCompatWarning "El equipo {0} tiene una baja compatibilidad"
     ContractIncomeMsg "Obtienes {0} por aceptar el contrato"
     VSyncWarning "Desactivar la sincronización vertical podría dañar la tarjeta gráfica durante períodos más largos de juego, debido a un sobrecalentamiento. 
-¿Estás seguro de que quieres continuar?"
+    ¿Estás seguro de que quieres continuar?"
     RoomLowEnv "Esta habitación es aburrida para mirar"
     FurnitureBlockedStaff "Tienes muebles que tus empleados no pueden alcanzar"
     Availablecontracts "Contratos disponibles"
@@ -828,7 +828,7 @@ NetProfit "Beneficio neto"
     CloneToolDesc "Utilice esta opción para clonar las habitaciones seleccionadas actualmente"
     ActionRoomUnpair "Desaignar habitación"
     HireIT-support "Técnico de IT"
-    ComplaintDialogInfo "Nombre: {0} \r Edad: {1} \r Rol: {2} \r Equipo: {3} \r Años en la compañía: {4}"
+    ComplaintDialogInfo "Nombre: {0}  Edad: {1}  Rol: {2}  Equipo: {3}  Años en la compañía: {4}"
     Complaints "Quejas"
     Currentsalary "Salario actual"
     Demandedsalary "Salario solicitado"
@@ -836,15 +836,15 @@ NetProfit "Beneficio neto"
     Fireemployee "Despedir empleado"
     PrematureDelayWarning "¿Seguro que quieres terminar la fase de retraso? Poner fin a la fase de de retraso antes de tiempo a menudo se extenderá la fase beta debido a la cantidad de errores adicionales."
 #Alpha 4.7
-    DesignProductTeamSizeHintLarge "El tamaño del equipo que has elegido es bastante grande para un proyecto de este tamaño \r 
+    DesignProductTeamSizeHintLarge "El tamaño del equipo que has elegido es bastante grande para un proyecto de este tamaño  
     ¿Estás seguro de que quieres continuar?"
-    CloneComplexityWarning "Estás clonando una gran cantidad de cosas, lo que podría sobrecargar tu ordenador. \r 
+    CloneComplexityWarning "Estás clonando una gran cantidad de cosas, lo que podría sobrecargar tu ordenador.  
     ¿Estás seguro de que quieres continuar?"
-    UnreachableFurniture "El personal no es capaz de llegar a {0} \r 
+    UnreachableFurniture "El personal no es capaz de llegar a {0}  
     Asegúrate de que no hay nada en el camino"
-    UnreachableParking "Este aparcamiento no se puede alcanzar \r 
+    UnreachableParking "Este aparcamiento no se puede alcanzar  
     Asegúrate de que está conectado a la carretera principal"
-    EmployeeStuck "{0} no puede llegar a casa \r 
+    EmployeeStuck "{0} no puede llegar a casa  
     Asegúrate de que hay un camino para salir del edificio sin nada bloqueando el camino"
     Coverage "Cobertura"
 #Alpha 5.1
@@ -853,12 +853,12 @@ NetProfit "Beneficio neto"
     Forest "Bosque"
     City "Ciudad"
     StockBuyOutError "Tienes que poseer todas las acciones en una empresa antes de poder comprarla"
-    CompanyDetailInfo "Valor: {0} \r 
-Cuota: {1} \r 
-Fundada: {2} \r 
-Productos: {3} \r 
-IPs Originales: {4} \r 
-Compañías compradas: {5}"
+    CompanyDetailInfo "Valor: {0}  
+    Cuota: {1}  
+    Fundada: {2}  
+    Productos: {3}  
+    IPs Originales: {4}  
+    Compañías compradas: {5}"
     Electricity "Electricidad"
     Water "Agua"
     Maintenance "Mantenimiento"
@@ -869,11 +869,11 @@ Compañías compradas: {5}"
     Description "Descripción"
     Client "Cliente"
     Offer "Oferta"
-    ServerDealDetail "Tipo: {0} \r 
-Unidades de energía por hora: {1} \r 
-Unidades requeridas: {2}"
-    MainDealsDesc "Las huelgas se ocupan de las otras compañías y las golpean desde el interior. \r 
-Necesitas una recepción para recibir las ofertas"
+    ServerDealDetail "Tipo: {0}  
+    Unidades de energía por hora: {1}  
+    Unidades requeridas: {2}"
+    MainDealsDesc "Llega a acuerdos con otras empresas y véncelos desde el interior  
+    Necesitas una recepción para recibir ofertas"
     IPDealActionBuy "¿Quieres comprar esta IP por {0}?"
     IPDealActionSell "¿Quieres comprar esta IP a {0} por {1}?"
     IPDealActionFail "Nadie está interesado en comprar esta IP"
@@ -882,19 +882,19 @@ Necesitas una recepción para recibir las ofertas"
     Receptionist "Recepcionista"
     Guest "Invitado"
     HireReceptionist "Recepcionista"
-    CompanyNameWarning "No has seleccionado un nombre para la compañía. \r
-¿Estás seguro de que quieres continuar?"
+    CompanyNameWarning "No has seleccionado un nombre para la compañía. 
+    ¿Estás seguro de que quieres continuar?"
     ActionConnectServers "Conectar servidores"
     WireMode "Modo cableado"
     GuestCompany "{0} a nombre de {1}"
 #Alpha 5.2
     SupportWorkSlowWarning "Tus empleados no pueden mantenerse al día con el soporte para {0}"
     SupportWorkCancelWarning "¡La cancelación de soporte a un producto con errores aún presentes puede hacer enfadar a sus compradores! 
-¿Estás seguro de que quieres continuar?"
+    ¿Estás seguro de que quieres continuar?"
 #Alpha 5.3
     AcceptAllWages "Aceptar todo y cerrar"
     AcceptAllWagesWarning "¿Estás seguro de que quieres aceptar todas las demandas? 
-Los aumentos promedios son de {0}, que es un cambio neto de {1} por mes"
+    Los aumentos promedios son de {0}, que es un cambio neto de {1} por mes"
     Upcomingevents "Eventos próximos"
     UpcomingEvDesc "Haga clic aquí para ver una lista de eventos que vienen el próximo mes. El icono se iluminará en rojo si los acontecimientos muy importantes están sucediendo."
     RetireEventMsg "{0} del equipo {1} se retirará el próximo mes, después de trabajar durante {2} por {3} años."
@@ -904,9 +904,9 @@ Los aumentos promedios son de {0}, que es un cambio neto de {1} por mes"
     ExceptionNotificationTip "¡Se produjo un error!"
     ExceptionNotificationTip2 "Haga clic aquí para más detalles"
     ExceptionNotificationMsg "Lamento informarle de que ocurrió un error hace un momento, que puede provocar el juego se rompa o se vuelva inestable (Early access, ¿no?). 
-Si tienes una partida reciente guardada, me permito sugerir el cierre del juego, reapertura y luego cargarlo, ya que no podría capaz de guardar la partida en curso a partir de ahora. 
-Si usted tiene idea de lo que sucedió en base al mensaje de error (haga clic en \"Ver error\" botón para comprobar) y tú puedes reproducirlo, yo estaría muy agradecido si usted podría enviar un correo a SoftwareInc@Coredumping.com con una descripción del error, para que yo pueda arreglarlo. 
-Lo siento mucho por las molestias."
+    Si tienes una partida reciente guardada, me permito sugerir el cierre del juego, reapertura y luego cargarlo, ya que no podría capaz de guardar la partida en curso a partir de ahora. 
+    Si usted tiene idea de lo que sucedió en base al mensaje de error (haga clic en \"Ver error\" botón para comprobar) y tú puedes reproducirlo, yo estaría muy agradecido si usted podría enviar un correo a SoftwareInc@Coredumping.com con una descripción del error, para que yo pueda arreglarlo. 
+    Lo siento mucho por las molestias."
     UIsize "Tamaño de la interfaz"
     NoCompanyName "Por favor introduzca un nombre de la empresa que no esté vacío"
     Savepicture "Guardar imagen"
@@ -1242,7 +1242,7 @@ Asegúrate de que tienes permisos para elimnar ese archivo de tu ordenador."
     Incompatiblefurniture "Mobiliario incompatible"
     Distribution "Distribución"
     Welcome "Bienvenido"
-    Customization "personalización"
+    Customization "Personalización"
     Designwork "Trabajo de diseño"
     Alphawork "Trabajo de alpha"
     Supportwork "Trabajo de soporte"
@@ -1961,19 +1961,19 @@ Asegúrate de que tienes permisos para elimnar ese archivo de tu ordenador."
     Balance "Balance"
     Leasing "Alquiler"
     OverwriteError "No puede sobreescribir este archivo"
-    TerminateLeaseWarning "Terminating your lease will sell all your furniture, which you can undo."
+    TerminateLeaseWarning "Terminar su contrato de arrendamiento venderá todos sus muebles, que puede deshacer."
     UndoRemoveTrees "Add trees"
     UndoAddTrees "Remove trees"
     UndoCreateLandmark "Remove environment object"
     UndoDestroyLandmark "Add environment object"
-    Buildings "Buildings"
-    Emptyplot "Empty plot"
+    Buildings "Edificios"
+    Emptyplot "Parcela vacía"
     EnvDestroyHint "Press shift + left mouse button to remove"
     MaximumCopyPrompt "Please enter how many copies you would like to have in stock before the print job is paused. -1 means no limit."
-    Maximum "Maximum"
+    Maximum "Máximo"
     IPAIBadDeal "{0} is not interested in trading this IP with you"
-    Bugs "Bugs"
-    Biggerplots "Bigger plots"
+    Bugs "Errores"
+    Biggerplots "Parcelas más grandes"
     BiggerPlotTip "Enable this to get bigger and more regular shaped plots, but higher expansion costs"
     Skillcomparison "Skill comparison"
     SkillComptHint "Compare selected applicant's skills with the selected team's average"
@@ -1984,7 +1984,7 @@ Asegúrate de que tienes permisos para elimnar ese archivo de tu ordenador."
     Allyear "All year"
     VacRangeTip "Vacations will be spread out among employees on the selected teams using this range. The actual length of vacation is determined by the employees' benefits."
     PR "PR"
-    Area "Area"
+    Area "Área"
     RoomHeatingWarning "Not enough heating for winter nights
     Add heating and remember windows leak"
     RoomCoolingWarning "Not enough ventilation for summer days
@@ -2009,37 +2009,37 @@ Asegúrate de que tienes permisos para elimnar ese archivo de tu ordenador."
     ServingTrayMissing "A cook can't find any serving trays to place food on for your employees. Place some on tables close to the kitchen and a canteen."
 #Alpha 10.5
     HREmployeeRoleWarning "You are trying to change the role of one or more employees whose role is controlled by an HR manager.
-Do you want to continue without changing the HR settings?"
+    Do you want to continue without changing the HR settings?"
     MultiIPDealActionSell "Do you want to sell {0} IPs to {1} companies for {2}?"
 #Alpha 10.6
     Tasks "Tasks"
     InterEmployeeDislike "{0} strongly dislikes {1}.
-Consider splitting them into separate teams"
+    Consider splitting them into separate teams"
     PriceTooHighWarning "The price of this software is currently a lot higher than market average.
-Suggested price is {0}"
+    Suggested price is {0}"
     MarketingDescAnnounce2 "You should announce a release date for your product as early as possible, as it will increase the effectiveness of your marketing efforts, keep followers interested longer and help set a goal for your project.
-Make sure you don't release your product too late."
-    ITPayment2 "{0} up front - Up to {1} per repair"
-    Item { Name "Month"; Plural "Months"; Value "{0} [Month|Months]" }
-    Item { Name "Day"; Plural "Days"; Value "{0} [Day|Days]" }
-    Item { Name "Year"; Plural "Years"; Value "{0} [Year|Years]" }
-    Item { Name "Hour"; Plural "Hours"; Value "{0} [Hour|Hours]" }
-    Item { Name "Product"; Plural "Products"; Value "{0} [Product|Products]" }
-    Item { Name "Team"; Plural "Teams"; Value "{0} [Team|Teams]" }
-    Item { Name "Specialization"; Plural "Specializations"; Value "{0} [Specialization|Specializations]" }
+    Make sure you don't release your product too late."
+    ITPayment2 "{0} por adelantato - {1} por reparación"
+    Item { Name "Month"; Plural "Months"; Value "{0} [Mes|Meses]" }
+    Item { Name "Day"; Plural "Days"; Value "{0} [Día|Días]" }
+    Item { Name "Year"; Plural "Years"; Value "{0} [Año|Años]" }
+    Item { Name "Hour"; Plural "Hours"; Value "{0} [Hora|Horas]" }
+    Item { Name "Product"; Plural "Products"; Value "{0} [Producto|Productos]" }
+    Item { Name "Team"; Plural "Teams"; Value "{0} [Equipo|Equipos]" }
+    Item { Name "Specialization"; Plural "Specializations"; Value "{0} [Especialización|Especializaciones]" }
     RotateFurnHint3 "{0} to rotate your furniture"
     RotateFurnHint3Mouse "Click and drag"
     RotateFurnHint3Key "Press {0} or {1}"
     Changeprice "Change price"
     CookStoveWarning "A cook is unable to find a stove.
-Make sure you have one working stove for each cook and at least one fridge and a serving tray"
+    Make sure you have one working stove for each cook and at least one fridge and a serving tray"
     NotApplicable "Not qualified for active tasks"
     Teammanagement "Team management"
     SubsidiaryMoneyWarning "Your subsidiary {0} is running out of money"
     RoadAboveRoomError "You can't build roads above rooms"
     MockNeedError "You can't release this product before you've released all the software it depends on"
     ProductMockConfirm "Your product depends on other products, which are still in development. You won't be able to release your product before those products have been released.
-Are you sure you want to continue?"
+    Are you sure you want to continue?"
     Sickdays "Sick days"
     Seniority "Seniority"
     Resignations "Resignations"
@@ -2052,31 +2052,31 @@ Are you sure you want to continue?"
     AiCompanyDistDealReject "{0} is not interested in your deal"
     AiCompanyDistDealAccept "{0} has accepted your offer"
     RejectDealWarning "Rejecting this bid will cancel your current distribution deal.
-Are you sure you want to continue?"
+    Are you sure you want to continue?"
     Physicaldistribution "Physical distribution"
     OutdoorError "This has to be placed in outdoor fenced areas"
     DealPerformanceCancel "{0} canceled your {1} deal due to bad performance"
     ProductInDevError "This product is still in development"
     SellPlotWarning "Selling this plot will destroy existing buildings.
-Are you sure you want to continue?"
+    Are you sure you want to continue?"
     ChangePriceFreeError "Product is already free"
 #Alpha 10.7
     Item { Name "Roof"; Plural "Roofs"; Value "{0} [Roof|Roofs]" }
-    Item { Name "Room"; Plural "Rooms"; Value "{0} [Room|Rooms]" }
-    Item { Name "Group"; Plural "Groups"; Value "{0} [Group|Groups]" }
+    Item { Name "Room"; Plural "Rooms"; Value "{0} [Habitación|Habitaciones]" }
+    Item { Name "Group"; Plural "Groups"; Value "{0} [Grupo|Grupos]" }
     ActionRoofColor "Roof colors"
     ActionRoofmaterial "Roof materials"
     ActionEditroof "Edit roof"
     ActionDestroy "Destroy structure"
     Finishroof "Finish roof"
     Invalidroof "Invalid roof"
-    Align "Align"
+    Align "Alinear"
     Straighten "Straighten"
-    Height "Height"
+    Height "Altura"
     Slope "Slope"
     Gable "Gable"
-    Move "Move"
-    Merge "Merge"
+    Move "Mover"
+    Merge "Combinar"
     Roofeditor "Roof editor"
     RoofAlignTip "Align points to roof edges"
     RoofStraightTip "Straighten points along a line"
@@ -2092,13 +2092,13 @@ Are you sure you want to continue?"
     Selectunsupportedrooms "Select unsupported rooms"
     Focusonobject "Focus on object"
     Assignrooms "Assign rooms"
-    Calendar "Calendar"
+    Calendar "Calendario"
     Workinghours "Working hours"
     StuckEmployee "An employee is unable to get home"
     NewDLLModVerify "A new code mod: {0}, has been detected. These mods have the potential to alter your system. You should not load a code mod if you do not trust the source.
-Are you sure you want to continue?"
+    Are you sure you want to continue?"
     AllAccessDLLModVerify "A code mod: {0}, is asking for full access, including access to your files and internet connection. You should not load a code mod if you do not trust the source.
-Are you sure you want to continue?"
+    Are you sure you want to continue?"
     ChangedDLLModVerify "Changes in the code mod: {0}, has been detected, do you still want to load it?"
     SteamUploadPrepareError "Wasn't able to prepare mod files for upload"
 #Alpha 10.8
@@ -2114,19 +2114,19 @@ Are you sure you want to continue?"
     SoftwareSupportWaning "It's been awhile since you released {0:Vowel:an,a} {0} and your fans are noticing"
     FurnitureInLimitRoomWarning "An employee has been assigned {0:Vowel:an,a} {0} in a room that the employee is not allowed in"
     VacationNotify "{0} went on vacation"
-    Item { Name "Employee"; Plural "Employees"; Value "{0} [Employee|Employees]" }
+    Item { Name "Employee"; Plural "Employees"; Value "{0} [Empleado|Empleados]" }
     ContractEarly "{0} early"
     ContractLate "{0} too late"
     FurnitureQueue "{0} waiting to use"
     TeamDisbandConfirmation "Are you sure you want to disband {1}:
-{0}?"
+    {0}?"
     Snaptogrid "Snap to grid"
     SickNotify "{0:FirstOrCount:employees} {0:Plural:have,has} called in sick"
     GeneralOptionTab "General"
-    Controls "Controls"
-    Effects "Effects"
-    Optimization "Optimization"
-    Help "Help"
+    Controls "Controles"
+    Effects "Efectos"
+    Optimization "Optimización"
+    Help "Ayuda"
     UISizeConf "Are you sure you want to keep this UI scale?"
     ShiftToPlaceMultiple "Hold shift to place multiple objects"
     ShiftToPlaceHint "Disable this to place multiple objects by default, using right click to cancel"
@@ -2215,14 +2215,14 @@ Are you sure you want to continue?"
     RemoveFavorite "Remove from favorites"
     AddFavorite "Add to favorites"
 #Alpha 11.1
-	Item { Name "Patent"; Plural "Patents"; Value "{0} [Patent|Patents]" }
-	Item { Name "Stock"; Plural "Stocks"; Value "{0} [Stock|Stocks]" }
+	Item { Name "Patent"; Plural "Patents"; Value "{0} [Patente|Patentes]" }
+	Item { Name "Stock"; Plural "Stocks"; Value "{0} [Acción|Acciones]" }
 	Item { Name "Framework"; Plural "Frameworks"; Value "{0} [Framework|Frameworks]" }
 	Repair "Repair"
     LevelPre "Level {0} ({1})"
     Totalcost "Total cost"
     EducationAmountTip "The maximum amount of employees that can take courses at once. Set to -1 for no limit"
-    Item { Name "Techlevel"; Plural "Techlevels"; Value "{0} [Tech level|Tech levels]" }
+    Item { Name "Techlevel"; Plural "Techlevels"; Value "{0} [Nivel tecnológico |Niveles tecnológicos ]" }
     TechLimitedBy "Limited by {0}"
     NewestTech "Already using latest tech"
     Previouspage "Previous page"
@@ -2231,13 +2231,13 @@ Are you sure you want to continue?"
     BasicInformation "Basic information"
     MarketTargeting "Market targeting"
     Summary "Summary"
-	DesignGeneration "Design generation"
+	DesignGeneration "Generación de diseño"
     Marketsatisfaction "Market satisfaction"
     Tools "Tools"
     AutoDevNoLeaders "There are no leaders to choose from. Please hire a leader or make sure you have a leader with the automation specialization"
-    SpecSkillRole "level {0} {1} {2}" #E.g. Level 3 audio designer
-	SpecSkill "Level {0} {1}" #E.g. Level 3 audio
-    MissingThing "Missing {0}"
+    SpecSkillRole "{2} de {1} de nivel {0}" #E.g. Level 3 audio designer
+	SpecSkill "{1} de nivel {0}" #E.g. Level 3 audio
+    MissingThing "Falta {0}"
     DesignProductFeatureHint "No one is competent as a {0} in the selected teams.
 Are you sure you want to continue?"
     Techlevellimits "Tech level limits"
@@ -2258,12 +2258,12 @@ Are you sure you want to continue?"
     FeatureLimitMain "You need to enable {0} to add this feature"
 	FeatureLimitDependency "This feature requires {0:Vowel:an,a} {0}, but there are none on the market"
 	ResearchAction "Research {0}
-Optimal designers: {1}
-Potential royalty: {2}"
+    Optimal designers: {1}
+    Potential royalty: {2}"
 	DeleteKeyHintHint "You can press {KeyBind:Destroy} to fire employees and destroy objects."
 	GermHint "Placing a sink near a toilet will stop the spread of disease and lower the chance of your employees becoming sick and staying home"
 	LampTestHint "You can change lighting conditions in build mode using this slider.
-This will also allow you to see your lamps in action."
+    This will also allow you to see your lamps in action."
 	NightShiftWork "I hate working nights"
 	NightShiftCompensation "Night shift compensation"
 	NightShiftWarning "An employee is tired of working late nights. You can give them a late night compensation benefit to improve their mood."
@@ -2278,7 +2278,7 @@ This will also allow you to see your lamps in action."
 	SkipTimeHint "Click here or press {KeyBind:SkipDay} when you are ready for your first day"
 	Legalwork "Legal work"
 	Service "Service"
-	Serviceskill "Service skill"
+	Serviceskill "Habilidad de servicio "
 	Externallawsuit "External dispute"
 	Internallawsuit "Internal dispute"
 	Settle "Settle"
@@ -2311,9 +2311,9 @@ This will also allow you to see your lamps in action."
 	FrameworkLimitPrompt "Increasing a tech level beyond your chosen framework will disable any speed boost for features using that tech.
 Are you sure you want to continue?"
 	OldComputerHint "Computer power will slowly decrease as new computers are released and better hardware is required to run modern software. You should replace old computers when you can."
-	New "New"
-	Existing "Existing"
-	Random "Random"
+	New "Nuevo"
+	Existing "Existente"
+	Random "Aleatorio"
 	CurveTool "Curve tool"
 	CurveToolDesc "Add curves to straight walls"
 	CurveToolHint "Use scroll wheel to control curve segmentation"
@@ -2354,7 +2354,7 @@ Are you sure you want to continue?"
 	PublisherAbandon "{0} can no longer carry the publishing duties for {1}"
 	PublisherMarketingPrompt "Your press release will be developed and released by your publisher instantly. Are you sure you want to continue?"
 	SkipPage "Skip this page for future projects"
-	GenerateDesign "Generate design"
+	GenerateDesign "Generar diseño"
 	GenerateDesignTip "Automatically pick features, operating systems and tools based on the settings you've set on this page"
 	RestoreFurniture "Restore furniture"
 	AutoBoundsError "Cannot upload furniture with autobounds set!
@@ -2368,45 +2368,45 @@ You need to bake bounds with the console command EXPORT_FURNITURE_BOUNDS before 
 	SecurityStaffTip "Security staff will stand guard at building entrances and scare off any would-be burglars"
 	DesignDocPageTip "You haven't looked at any of the other pages in the design document.
 Are you sure you want to continue?"
-	Socialization "Socialization"
+	Socialization "Socialización"
 	LegalWorkClass "Legal tasks"
-	Law "Law"
+	Law "Ley"
 	Colorblindness "Color blindness"
 	LowMoneyHireWarning "You have limited funds to sustain your company if you hire {0}. Are you sure want to continue?"
 	SpecDesc
 		{
 		Lead
 			{
-			HR ["Handle complaints and salaries"; "Handle education"; "Handle hiring"]
-			Automation ["Project management"; "Sequels, iterations and frameworks"; "Handle post release tasks"]
-			Socialization ["Boost team compatibility"; "Socialize with employees"; "Hold meetings"]
+			HR ["Gestiona las quejas y salarios"; "Gestiona la educación"; "Gestiona la contratación"]
+			Automation ["Gestión de proyectos"; "Secuelas, iteraciones y frameworks"; "Gestiona tareas posteriores a la publicación "]
+			Socialization ["Aumenta la compatibilidad del equipo"; "Socializa con los empleados "; "Organizan reuniones"]
 			}
 		Service
 			{
-			Support ["File bug reports"; "Handle 2 support tickets"; "Chance to fix bug" ]
-			Marketing ["Create press photos"; "Create press videos"; "Attend conferences"]
-			Law ["Handle internal disputes"; "Handle external disputes"; "File for patents"]
+			Support ["Archiva los reportes de errores"; "Gestiona 2 tickets de soporte "; "Probabilidad de corregir errores" ]
+			Marketing ["Crear fotos de prensa "; "Crear videos de prensa "; "Asistir a conferencias "]
+			Law ["Gestiona las disputas internas"; "Gestiona las disputas externas"; "Solicitud de patentes"]
 			}
 		}
 #Alpha 11.1.7
-	BurglarTip "There's a burglar on your premises"
-	FireTip "There's an active fire on your premises"
-	Overloaded "Overloaded" #Server
+	BurglarTip "Hay un ladrón en tus instalaciones"
+	FireTip "Hay un incendio activo en tus instalaciones."
+	Overloaded "Sobrecargado" #Server
 #Alpha 11.1.8
-	Jawheight "Jaw height"
-	Jawwidth "Jaw width"
-	Earsize "Ear size"
-	Earposition "Ear position"
-	Noselength "Nose length"
-	Nosewidth "Nose width"
-	Nosedepth "Nose depth"
-	Eyebrows "Eyebrows"
-	Thickness "Thickness"
-	Curvy "Curvy"
-	Facialhair "Facial hair"
-	Makeup "Makeup"
-	Beard "Beard"
-	Sunglasses "Sunglasses"
+	Jawheight "Altura de la mandíbula"
+	Jawwidth "Anchura de la mandíbula"
+	Earsize "Tamaño del oído"
+	Earposition "Posición del oído"
+	Noselength "Longitud de la nariz"
+	Nosewidth "Anchura de la nariz"
+	Nosedepth "Profundidad de la nariz"
+	Eyebrows "Cejas"
+	Thickness "Grosor"
+	Curvy "Curvatura"
+	Facialhair "Vello facial"
+	Makeup "Maquillaje"
+	Beard "Barba"
+	Sunglasses "Gafas de sol"
 	EmployeeCourseBookError "The {0:Plural:employees,employee} you selected {0:Plural:are,is} not eligable for education."
 	EmployeeCourseBookErrorXP "They need to gain some relevant experience before they can be attend a class."
 	EmployeeCourseBookErrorMax "They have already maxed their specialization points."
