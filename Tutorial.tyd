@@ -1,5 +1,52 @@
 Tutorial
     {
+    SHARED1               "To start developing software, designers need to piece together a design document. This document describes how the software should be developed and structured, to make sure everyone is on the same page.
+	
+The design phase is split up into iterations. Each iteration increases the potential end quality and decreases the speed and amount of bugs in your project. There are 2 ways to tackle the design phase:
+	•You can finish 1 iteration and handle any issues in the development phase
+	•You can finish all iterations and have less issues in the development phase
+	
+The first method is very effective, but makes it hard to estimate how long development will take, however the second method is guaranteed to extend the design phase exponentially.
+
+Press {H:continue} to advance the tutorial."
+    SHARED2               "When doing a review you have to choose how many reviews you want. The more reviews you have, the better accuracy you get.
+			
+You also have to decide who you want to carry out the review, which affects the final price.
+
+Finally, you have to decide which parts of the software to review. If you have already gotten good scores from a past review, you can save time and money by skipping those areas for the current review.
+
+Pres {H:OK} when you are ready to continue."
+    SHARED3               "Reviews will pour in as time goes on. You can finish it prematurely if you want, but if you want high accuracy, you should wait until all reviews are in.
+
+Note that reviews will be based on a version of the project that existed when you first clicked review, so any subsequent changes wont be accounted for.
+			
+Click the {H:End} button on the review when the progress bar has filled up."
+    SHARED4               "If the review score is unsatisfactory, you can click the iterate button to pause development and let your designers rework the design document. This will tighten up any loose ends, but also set back your project progress a bit.
+
+If you are happy with your score, just close the review window and continue development."
+    SHARED5               "Pressing {KeyBind:MultipleSelect} on objects, rooms or employees will allow you to select several at once, you can then press {KeyBind:ContextMenu} anywhere to see the context menu. You can hold {KeyBind:SweepSelect} down to select objects of the same type quickly or press {KeyBind:NormalSelection} and drag to select everything within a rectangle.
+
+Try selecting at least 2 things in the game."
+    SHARED6               "Let's put some furniture in your room.
+
+Build a new table by clicking on the {H:Furnish} button or searching for {H:table}."
+    SHARED7               "Now add a chair. Chairs can only be added to tables.
+
+Note that some furniture, like chairs and tables, can be replaced with alternate versions after they have been placed. You can use the context menu to easily replace a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example."
+    SHARED8               "Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
+
+Computers have to sit on top of a table and face a chair."
+    SHARED9               "When you put tables next to each other they will be grouped together if they don't have anything on top of them. Tables that are grouped together can be used for meetings. To see which tables are grouped, just select one table and its group will be highlighted in blue.
+
+It's important you control the noise levels in your working environment, try enabling the audio overlay to see what furniture is making noise."
+    SHARED10              "Your founder does not get tired, hungry, cold, lonely, stressed, need bathroom breaks or get annoyed in general, but when you hire new employees they will. So make sure to add at least one vending machine, a coffee machine, a radiator, a ventilator and a separate bathroom before you hire new employees.
+
+Toggle the audio overlay to advance."
+    SHARED11              "Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
+
+Right click your new room and choose {H:Switch team}, which resembles a circle with arrows. A window will appear, click on {H:Core} to assign the room to the Core team.
+
+Remember to assign employees to a team as well. You can do this either by pressing {KeyBind:ContextMenu} on an employee and choosing {H:Switch team}, from the employees window or directly in the hiring window."
     ALPHAWORK1 "Your design has now been promoted to implementation.
 
 The implementation phase has three stages:
