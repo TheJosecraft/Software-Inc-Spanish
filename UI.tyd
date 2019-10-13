@@ -2412,3 +2412,23 @@ Are you sure you want to continue?"
 	EmployeeCourseBookErrorMax "They have already maxed their specialization points."
 	EmployeeCourseBookErrorInCourse "They are already atteding a course."
 	SecurityEntranceMissing "A security guard can't find an entrance to guard. Clear their room assignments to make them guard building entrances or make sure the assigned rooms have door entrances"
+#Alpha 11.2.1
+	ClassLawsuitPrompt "You are accused of {0} and being sued in a class action lawsuit for {1}. Do you wish to settle or take it to court?"
+	Reasonsgiven "Reasons given:"
+	SubparProjectFund "The funded product did not meet expectations"
+	CancelledProjectFund "The funded product was never released"
+	ScheduleNotMet "Not keeping to agreed upon schedule"
+	ResearchAction "Research {0}
+    Required: {3} x {1}
+    Potential royalty: {2}"
+	SoftwareComplexityWarning "The software you are making is very complex and will take a long time to develop, without adding any consumer interest. You should consider selecing less features.
+    Are you sure you want to continue?"
+	Negligence "Negligence"
+	Nextclass "Next class"
+	LeftToSpend "Left"
+	Available "Available"
+	CallCourierWarning "Only call couriers directly in emergencies, as they get very expensive very quickly!"
+	OfficeDangers "Office dangers"
+	OfficeDangersTip "You can turn off fires and burglaries to make the game a little more boring"
+	GeneralHRManagement "General"
+	CustomServiceHint "Increases the effectiveness of human facing tasks, such as support, marketing and legal work"
